@@ -49,3 +49,9 @@ This project applies Machine Learning to optimize metal alloy manufacturing proc
 
     Open Final_Project.ipynb in Jupyter Notebook.
 
+### Model Performance Visuals
+
+![Sintering Correlation Matrix](figures/sintered_correlation.png)
+![Laser Correlation Matrix](figures/laser_correlation.png)
+![Actual vs Predicted Density and Hardness](figures/actual_vs_predicted.png)
+
