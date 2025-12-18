@@ -1,0 +1,21 @@
+paper_id,avg_grain_size,hardness_val,laser_power(W),laser_scan_speed,Notes
+Nano_Ref_1,0.5,750,100,1200,Extreme Rapid Cooling
+Nano_Ref_2,0.8,700,110,1150,Nanocrystalline
+Kim2024_Ti,0.9,550,120,1100,High Speed Ti64
+Xu2022_Ti,1.2,650,130,1050,Fine Martensite
+Kim2021_Ti,1.4,620,140,1000,Fine Structure
+Mos2022_Ti,2.1,580,150,950,Med-Fine
+H13_Tool_1,2.5,550,160,900,Tool Steel Hard
+Qin2025_Ti,3,520,170,850,Transition Zone
+Deng2022_SS,4.5,480,180,800,Stainless Med
+Song2015_Ti,5.2,450,200,750,Slower Scan
+Fouad2025,8.7,400,220,700,Coarsening
+Zhang2010_SS,10,450,250,650,Standard LMD
+Chen2025_SS,12,330,280,600,Heat Accumulation
+Wang2021_SS,15,220,300,550,Grain Growth
+SS316L_Ref,18.4,270,350,500,Refined Cast
+Yasa2015_SS,20,250,380,450,Remelted Zone
+Wang2021_2,30,220,400,400,High Energy Input
+Sunny2022,45,180,450,300,Very High Energy
+Cast_Ref_1,60,150,500,200,Near Cast Structure
+Cast_Ref_2,80,120,600,100,Fully Cast / Annealed

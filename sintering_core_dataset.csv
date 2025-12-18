@@ -1,0 +1,35 @@
+paper_id,sint_temp_c,sint_time_min,porosity_pct,Notes
+Raza_2017,1200,60,18,Std Temp Short
+Raza_2017,1200,180,12,Std Temp Med
+Raza_2017,1200,300,8,Std Temp Long
+Raza_2017,1300,60,6,High Temp Short
+Raza_2017,1300,180,3.5,High Temp Med
+Raza_2017,1300,300,2,High Temp Long
+Raza_2017,1400,60,1.5,Max Temp Short
+Raza_2017,1400,120,0.5,Max Temp Med
+Pandya_2012,1150,45,22,Low Temp Short
+Pandya_2012,1150,60,20,Low Temp Std
+Pandya_2012,1150,90,18,Low Temp Long
+Pandya_2012,1250,45,12,Med Temp Short
+Pandya_2012,1250,60,10,Med Temp Std
+Pandya_2012,1250,90,8,Med Temp Long
+Pandya_2012,1350,45,4,High Temp Short
+Pandya_2012,1350,60,3,High Temp Std
+Pandya_2012,1350,90,2,High Temp Long
+Dewidar_2008,1200,30,20,Comparison Point A
+Dewidar_2008,1200,120,13,Comparison Point B
+Dewidar_2008,1300,30,8,Comparison Point C
+Dewidar_2008,1300,120,3,Comparison Point D
+Ji_2019,1200,60,17,Variance Point 1
+Ji_2019,1225,60,14,Step Heating
+Ji_2019,1250,60,11,Variance Point 2
+Ji_2019,1275,60,7.5,Step Heating
+Ji_2019,1300,60,5,Variance Point 3
+Ji_2019,1325,60,2.5,Step Heating
+Nagaraju_2019,1200,30,22,Fast Sintering A
+Nagaraju_2019,1200,45,19.5,Fast Sintering B
+Nagaraju_2019,1250,30,14,Fast Sintering C
+Nagaraju_2019,1250,45,11.5,Fast Sintering D
+Nagaraju_2019,1300,30,8,Fast Sintering E
+Nagaraju_2019,1300,60,5.5,Variance Point 4
+Dewidar_2008,1150,120,18,Validation Low
